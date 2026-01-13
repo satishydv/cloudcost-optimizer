@@ -53,5 +53,3 @@ The application will be available at `http://localhost:5173`.
 
 ## Deployment
 
-This application can be viewed and managed via AI Studio at the following URL:
-https://ai.studio/apps/drive/1lBBNxa9aX8voZrDS_ouA8hzBubevlyec
